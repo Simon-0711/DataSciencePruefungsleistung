@@ -1,4 +1,4 @@
-Zoning Classification;Lot Area;Neighborhood;Dwelling Type;Overall Quality;Overall Condition;Year Built;Remodel Date;Roof Style;Basement Area SF;Heating Quality and Condition;CentralAir;Ground Area SF;Total Rooms above Grade;Garage Cars;Year Sold;Sale Price
+Zoning Classification;Lot Area;Neighborhood;Dwelling Type;Overall Quality;Overall Condition;Year Built;Remodel Date;Roof Style;Basement Area SF;Heating Quality and Condition;CentralAir;Ground Area SF;Total Rooms above Grade;Garage Cars;Year Sold;SalePrice
 RM;1300;Blueste;TwnhsE;6;6;1980;1980;Gable;561;TA;Y;1229;5;2;2009;124000
 RM;1477;MeadowV;TwnhsE;4;4;1970;1970;Gable;630;TA;Y;630;3;1;2009;80000
 RM;1491;MeadowV;TwnhsE;4;6;1972;1972;Gable;630;Ex;Y;630;3;0;2010;75500
